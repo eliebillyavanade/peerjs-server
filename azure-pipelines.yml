@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'cf36141c-ddd7-45a7-b073-111f66d0b30c'
+  azureSubscription: 'ffba9e27-2ac0-44b5-9911-afcba36ebc77'
   
   # Web app name
   webAppName: 'peerjs'
